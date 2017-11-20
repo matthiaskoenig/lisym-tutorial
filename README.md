@@ -43,11 +43,13 @@ within the research network Systems Medicine of the Liver (LiSyM, grant number 0
 
 
 ## Instructions
-To run the tutorial notebooks download the latest release of the notebooks and unzip them from
+To run the tutorial notebooks download the latest release from
+https://github.com/matthiaskoenig/lisym-tutorial/releases  
+Extract the files, the notebooks are in the `./notebooks/` folder
  
+### Running examples with tellurium-notebook 
+For running the notebooks with tellurium-notebook [download the latest version](https://github.com/sys-bio/tellurium#installation-instructions). After installation open the notebooks with
 
-
-### Running examples with tellurium 
 
 
 
