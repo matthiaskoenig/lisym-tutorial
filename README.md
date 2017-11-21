@@ -1,4 +1,5 @@
-# lisym-tutorial
+<h1><a href="http://www.lisym.org/" alt="LiSyM" target="_blank"><img src="./images/lisym.png" height="45"></a> 1st LiSyM Modeling Tutorial</h1>
+
 [![GitHub version](https://badge.fury.io/gh/matthiaskoenig%2Flisym-tutorial.svg)](https://badge.fury.io/gh/matthiaskoenig%2Flisym-tutorial)
 [![DOI](https://www.zenodo.org/badge/111459301.svg)](https://www.zenodo.org/badge/latestdoi/111459301)  
 <b><a href="https://orcid.org/0000-0003-1725-179X" title="https://orcid.org/0000-0003-1725-179X"><img src="./images/orcid.png" height="15"/></a> Matthias König</b>
