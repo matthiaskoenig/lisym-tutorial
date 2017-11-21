@@ -1,4 +1,4 @@
-<h1><a href="http://www.lisym.org/" alt="LiSyM" target="_blank"><img src="./images/lisym.png" height="45"></a> 1st LiSyM Modeling Tutorial</h1>
+<h1><a href="http://www.lisym.org/" alt="LiSyM" target="_blank"><img src="./images/lisym.png" height="45"></a> LiSyM Modeling Tutorial</h1>
 
 [![GitHub version](https://badge.fury.io/gh/matthiaskoenig%2Flisym-tutorial.svg)](https://badge.fury.io/gh/matthiaskoenig%2Flisym-tutorial)
 [![DOI](https://www.zenodo.org/badge/111459301.svg)](https://www.zenodo.org/badge/latestdoi/111459301)  
