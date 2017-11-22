@@ -13,7 +13,7 @@ The entry point for the notebooks is the [index.ipynb](./index.ipynb).
 ## Resources
 #### Standard formats
 * [Systems Biology Markup Language (SBML)](http://sbml.org/Main_Page)
-* [Simulaltion Experiment Description Markup Language (SED-ML)](https://sed-ml.github.io/)
+* [Simulation Experiment Description Markup Language (SED-ML)](https://sed-ml.github.io/)
 
 #### Model repositories
 * [BioModels](https://wwwdev.ebi.ac.uk/biomodels/)
